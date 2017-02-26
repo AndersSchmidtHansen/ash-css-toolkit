@@ -11,9 +11,7 @@ npm install --save ash-css-toolkit
 ## Usage
 
 ```javascript
-var ashCssToolkit = require('ash-css-toolkit')
-
-ashCssToolkit()  // => true
+@import 'path/to/ash-css-toolkit'
 ```
 
 ## License
