@@ -1,0 +1,17 @@
+.transition-100ms { transition-duration: 100ms; }
+.transition-140ms { transition-duration: 140ms; }
+.transition-250ms { transition-duration: 250ms; }
+.transition-500ms { transition-duration: 500ms; }
+
+.transition-delay1 { transition-delay: 1000ms; }
+
+.transition-box-shadow { transition-property: box-shadow; }
+.transition-bg { transition-property: background-color; }
+.transition-color { transition-property: color; }
+.transition-opacity { transition-property: opacity; }
+.transition-border-color { transition-property: border-color; }
+.transition-all { transition-property: all; }
+
+.transition-ease { transition-timing-function: ease; }
+.transition-ease-in-out { transition-timing-function: ease-in-out; }
+

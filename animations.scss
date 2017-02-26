@@ -1,0 +1,7 @@
+.spin {
+  animation: rotate 1200ms infinite cubic-bezier(.785, .135, .150, .860);
+}
+
+@keyframes rotate {
+  to { transform: rotate(360deg); }
+}

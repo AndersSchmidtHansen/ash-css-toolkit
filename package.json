@@ -1,0 +1,20 @@
+{
+  "name": "ash-css-toolkit",
+  "description": "Additional functional CSS classes to accompany Basscss.",
+  "author": "Anders Schmidt Hansen",
+  "version": "0.1.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": "AndersSchmidtHansen/ash-css-toolkit",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "*"
+  }
+}

@@ -1,0 +1,29 @@
+@import './variables/colors';
+
+.border-navy {    border-color: $navy; }
+.border-blue {    border-color: $blue; }
+.border-aqua {    border-color: $aqua; }
+.border-teal {    border-color: $teal; }
+.border-olive {   border-color: $olive; }
+.border-green {   border-color: $green; }
+.border-lime {    border-color: $lime; }
+.border-yellow {  border-color: $yellow; }
+.border-orange {  border-color: $orange; }
+.border-red {     border-color: $red; }
+.border-fuchsia { border-color: $fuchsia; }
+.border-purple {  border-color: $purple; }
+.border-maroon {  border-color: $maroon; }
+.border-white {   border-color: $white; }
+.border-gray {    border-color: $gray; }
+.border-silver {  border-color: $silver; }
+.border-black {   border-color: $black; }
+.border-inherit { border-color: inherit; }
+
+.border-transparent { border-color: transparent; }
+.border-top-transparent { border-top-color: transparent; }
+.border-right-transparent { border-right-color: transparent; }
+.border-bottom-transparent { border-bottom-color: transparent; }
+.border-left-transparent { border-left-color: transparent; }
+
+.border-black-translucent { border-color: hsla(0, 0, 0, .2); }
+.border-top-black { border-top-color: rgba(0, 0, 0, .8); }
