@@ -2,7 +2,7 @@
   "name": "ash-css-toolkit",
   "description": "Additional functional CSS classes to accompany Basscss.",
   "author": "Anders Schmidt Hansen",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "main": "index.js",
   "files": [
     "index.js",
