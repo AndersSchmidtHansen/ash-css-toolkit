@@ -3,7 +3,7 @@
   "description": "Additional functional CSS classes to accompany Basscss.",
   "author": "Anders Schmidt Hansen",
   "version": "1.0.11",
-  "main": "./manifest.scss",
+  "main": "index.js",
   "files": [
     "index.js",
     "**/*.scss"
