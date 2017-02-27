@@ -5,6 +5,7 @@
   "version": "1.0.5",
   "main": "manifest.scss",
   "files": [
+    "index.js",
     "*.scss"
   ],
   "scripts": {
