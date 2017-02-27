@@ -3,6 +3,7 @@
   "description": "Additional functional CSS classes to accompany Basscss.",
   "author": "Anders Schmidt Hansen",
   "version": "1.0.10",
+  "main": "./manifest.scss",
   "files": [
     "index.js",
     "**/*.scss"
@@ -10,7 +11,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/AndersSchmidtHansen/ash-css-toolkit.git"
+    "url": "https://github.com/AndersSchmidtHansen/ash-css-toolkit"
   },
   "keywords": [],
   "license": "MIT",
